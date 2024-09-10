@@ -1,4 +1,4 @@
-"use client"; // Declare this component as a client component
+"use client";
 
 import React from 'react';
 import Link from 'next/link';
